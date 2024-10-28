@@ -34,7 +34,7 @@ This project implements a real-time fall detection system that utilizes an ESP32
 2. **Clone the Repository:**
    ```bash
    git clone git@github.com:Red-54/Fall_Detection.git
-   cd fall-detection-yolo
+   cd Fall_Detection
    ```
 
 3. **Install Dependencies:**
@@ -76,7 +76,7 @@ Contributions to this project are welcome! Please feel free to fork the reposito
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
-```
+
 
 **Remember to:**
 
