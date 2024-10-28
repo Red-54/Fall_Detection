@@ -1,0 +1,14 @@
+# Core Requirements
+opencv-python
+numpy
+urllib3
+twilio
+
+# YOLOv11 (Ultralytics)
+ultralytics
+
+# Geolocation
+geopy
+
+# (Optional) For development and testing
+Flask 
