@@ -9,7 +9,7 @@ from twilio.rest import Client
 import geocoder
 
 # Load YOLO model
-model = YOLO(f"{os.getcwd()}/fall.pt")
+model = YOLO(f"fall.pt")
 
 # Load credentials from Streamlit secrets
 account_sid = st.secrets["twilio_account_sid"]
