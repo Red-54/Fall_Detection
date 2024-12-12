@@ -1,14 +1,8 @@
-# Core Requirements
-opencv-python
-numpy
-urllib3
-twilio
+streamlit 
+opencv-python-headless 
+numpy 
+ultralytics 
+twilio 
+geocoder
 
-# YOLOv11 (Ultralytics)
-ultralytics
 
-# Geolocation
-geopy
-
-# (Optional) For development and testing
-Flask 
